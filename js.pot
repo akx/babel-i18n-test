@@ -1,0 +1,17 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+"Language: en_US\n"
+
+msgid "Calendar"
+msgstr ""
+
+msgid "Schedule a beer"
+msgstr ""
+
+msgid "Warp time"
+msgstr ""
+
+msgid "Blemp"
+msgstr ""
